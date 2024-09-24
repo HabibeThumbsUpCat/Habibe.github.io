@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cyan;
+    background-color: darksalmon;
+}
+
+h1{
+    color: aquamarine;
+    font-size: 6em;
+}
+
+
+#logo{
+    margin-left: 20em;
+    font-stretch: semi-condensed;
+    size-adjust: 12em;
+}
